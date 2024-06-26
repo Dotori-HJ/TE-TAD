@@ -40,10 +40,12 @@ python main.py --eval --c configs/thumos14.yaml --output_dir logs/thumos14
 ## Citation
 if you find our work helpful, please consider citing our paper:
 ```
-@inproceedings{kim2024te-tad,
-      title={TE-TAD: Towards Fully End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression}, 
-      author={Kim, Ho-Joong and Hong, Jung-Ho and Heejo, Kong and Lee, Seong-Whan },
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      year={2024},
+@InProceedings{Kim_2024_CVPR,
+    author    = {Kim, Ho-Joong and Hong, Jung-Ho and Kong, Heejo and Lee, Seong-Whan},
+    title     = {TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {18837-18846}
 }
 ```
